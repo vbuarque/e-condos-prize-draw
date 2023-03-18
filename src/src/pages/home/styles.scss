@@ -64,12 +64,13 @@
 
             text-decoration: none;
             text-align: center;
-        }
 
-        .button_link:hover {
-            background: #6d4bd3;
             transition: 0.2s;
-            cursor: pointer;
+
+            &:hover {
+                background: #6d4bd3;
+                cursor: pointer;
+            }
         }
     }
 

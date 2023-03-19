@@ -1,0 +1,15 @@
+.button_email {
+    border:none;
+    background: #835afd;
+    color: #fff;
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    font-weight: 400;
+
+    transition: 0.2s;
+
+    &:hover {
+        background: #6d4bd3;
+        cursor: pointer;
+    }
+}

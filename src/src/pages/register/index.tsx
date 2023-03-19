@@ -10,6 +10,7 @@ import { ModalDelete } from '../../../components/modalDelete';
 
 import './styles.scss';
 
+
 export function Register() {
     const [isRegisterModalOpen, setIsRegisterModalOpen] = useState(false);
     const [isEditModalOpen, setIsEditModalOpen] = useState(false);
@@ -51,6 +52,14 @@ export function Register() {
                             <th className='th_edit'>Editar</th>
                         </tr>
                     </thead>
+                    {friend.length === 0 && (
+                        <tbody>
+                            <tr>
+                                <td colSpan={3} className='td_no_friend'>Nenhum amigo cadastrado</td>
+                            </tr>
+                        </tbody>
+                        )
+                    }
                     <tbody>
                         {friend.map((friendData, index) => (
                             <tr key={index}>

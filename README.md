@@ -17,7 +17,7 @@
 
 ### :hammer_and_wrench: Tecnologias e ferramentas
 
-- [Figma](http://www.figma.com/), [React Native](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), [Vite](https://vitejs.dev/)
+- [Figma](http://www.figma.com/), [ReactJS](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), [Vite](https://vitejs.dev/)
 
 <span id="requisitos">
 

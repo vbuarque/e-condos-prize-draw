@@ -60,6 +60,7 @@ export function Sortition() {
     emailjs.send(serviceID, templateID, emailParams, userID)
       .then((result) => {
         console.log(result.text);
+        alert('Email enviado com sucesso!');
       }, (error) => {
         console.log(error.text);
       });

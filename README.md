@@ -43,4 +43,4 @@ $ npm run dev
 
 > 💡 Agora o aplicativo será aberto em seu navegador de sua preferência, se caso preferir visualizar o video de apresentação da aplicação [Clique aqui!](https://youtu.be/thlTEpipoUo).
 
-[![image](https://img.shields.io/badge/✨%20Vinicius%20Buarque,%202022-LinkedIn-009973?style=flat-square)](https://www.linkedin.com/in/vbgusmao/)
+[![image](https://img.shields.io/badge/✨%20Vinicius%20Buarque,%202023-LinkedIn-009973?style=flat-square)](https://www.linkedin.com/in/vbgusmao/)
